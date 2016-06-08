@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:00.681393
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:26
 #+TITLE: 佛頂大白傘蓋陀羅尼經
 #+PROPERTY: CBETA_ID T19n0976
 #+PROPERTY: ID KR6j0159
@@ -82,9 +82,9 @@ No.976¶
 　窈窕母持杵
 　眼如金光母¶
 　金剛炬白母
-　蓮華日月光
+　蓮華日月光」
 #+END_VERSE
-」¶
+¶
 
 諸手印眾願擁護我願擁護我。¶
 
